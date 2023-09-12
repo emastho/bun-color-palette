@@ -34,17 +34,3 @@
 #4d4f61
 ```
 
-
-| Color | Color Hex Code |
-|-------------|----------------|
-| <div style="height: 50px; width: 50px; background-color: #f7ecdb;"></div> | #f7ecdb |
-| <div style="height: 50px; width: 50px; background-color: #14151a;"></div> | #14151a |
-| <div style="height: 50px; width: 50px; background-color: #0d0e11;"></div> | #0d0e11 |
-| <div style="height: 50px; width: 50px; background-color: #282a36;"></div> | #282a36 |
-| <div style="height: 50px; width: 50px; background-color: #f472b6;"></div> | #f472b6 |
-| <div style="height: 50px; width: 50px; background-color: #d1d5db;"></div> | #d1d5db |
-| <div style="height: 50px; width: 50px; background-color: #9ca3af;"></div> | #9ca3af |
-| <div style="height: 50px; width: 50px; background-color: #232427;"></div> | #232427 |
-| <div style="height: 50px; width: 50px; background-color: #1d1e21;"></div> | #1d1e21 |
-| <div style="height: 50px; width: 50px; background-color: #282a36;"></div> | #282a36 |
-| <div style="height: 50px; width: 50px; background-color: #4d4f61;"></div> | #4d4f61 |
